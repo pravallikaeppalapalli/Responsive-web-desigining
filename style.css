@@ -14,7 +14,6 @@ p
 h1
 {
   color: yellow;
-
 }
 .maindiv
 {
@@ -28,6 +27,7 @@ body{
 h2
 {
   text-align: center;
+  color: MEDIUMSPRINGGREEN;
 }
 /*media queries*/
 @media only screen and (max-width:450px) {
